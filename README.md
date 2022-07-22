@@ -1,1 +1,1 @@
-# -VacancyBot
+# Vacancy Bot
